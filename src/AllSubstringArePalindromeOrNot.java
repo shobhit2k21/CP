@@ -1,5 +1,5 @@
 public class AllSubstringArePalindromeOrNot {
-    public static void main(String[] args) {    // O(N^2) solution instead pf N^3
+    public static void main(String[] args) {    // O(N^2) solution instead of N^3
 
         String s = "Shobhit";
         int n = s.length();                           // n <= 10^4
